@@ -1,4 +1,4 @@
-### Hi there 👋
+### 爱好广泛，皆为业余。 👋
 
 <!--
 **xsinger/xsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
