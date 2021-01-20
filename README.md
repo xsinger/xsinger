@@ -1,5 +1,7 @@
 ### 爱好广泛，皆为业余。 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xsinger)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **xsinger/xsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
