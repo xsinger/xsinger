@@ -4,4 +4,4 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=xsinger&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=xsinger&langs_count=4&theme=github_dark_dimmed)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sublime,apple,androidstudio,debian,bash,bootstrap,docker,github,gmail,go,instagram,ai,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sublime,apple,androidstudio,debian,bash,bootstrap,docker,github,go,ai,jquery,linux,less,md,mysql,nginx,nodejs,powershell,py,sqlite,tailwind,ubuntu,vscode,windows)](https://skillicons.dev)
